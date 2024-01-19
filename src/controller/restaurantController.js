@@ -39,3 +39,5 @@ const getRateOnRes = async (req, res) => {
 };
 
 export { getListRestaurant, getLikeOnRes, getRateOnRes };
+
+//a
